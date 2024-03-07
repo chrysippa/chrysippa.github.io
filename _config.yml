@@ -58,7 +58,7 @@ social-network-links:
 # youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
-linkedin: cassandra-blair-data
+linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -131,14 +131,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#CCCCDF"
+navbar-col: "#a4a6ab"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#CCCCDF"
+footer-col: "#a4a6ab"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
